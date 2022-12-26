@@ -1,0 +1,22 @@
+@import url(https://fonts.google.com/specimen/Montserrat);
+@import url(https://fonts.google.com/specimen/Fraunces);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-m {
+  font-family: 'Montserrat';
+}
+
+.font-f {
+  font-family: 'Fraunces';
+}
+
+.font-500 {
+  font-weight: 500;
+}
+
+.font-700 {
+  font-weight: 700;
+}
